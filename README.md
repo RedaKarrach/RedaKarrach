@@ -17,7 +17,7 @@ I'm a 4th-year **cybersecurity & network infrastructure engineering** student at
 End-of-year project (PFA). Python/Scapy agents sniff traffic on lab endpoints, detect SYN floods, ARP spoofing and ICMP redirects, and can block the source with `iptables` / `netsh`. Alerts stream over WebSockets to a React SOC dashboard, mapped to MITRE ATT&CK (T1046, T1557, T1498), with per-host risk scoring, agent health monitoring and PDF session reports.
 `Scapy` `Django Channels` `MongoDB` `React 18` `D3.js` `Docker Compose`
 
-**Automated incident response playbooks: distributed SOC lab** *(in progress)*
+**[Automated incident response playbooks: distributed SOC lab](https://github.com/RedaKarrach/distributed-soc-lab)**
 Two-machine SOC over a dedicated LAN: Wazuh (SIEM) and Shuffle (SOAR) on one node, TheHive (case management) and Cortex (enrichment) on the other, with Windows and Linux endpoints. Adversary behaviour is replayed with Atomic Red Team to test detections and response playbooks end to end.
 `Wazuh` `Shuffle` `TheHive` `Cortex` `Atomic Red Team`
 
