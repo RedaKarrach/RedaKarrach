@@ -9,7 +9,7 @@ I am a 5th-year cybersecurity and network infrastructure engineering student at 
 **Looking for a PFE internship from early 2027**, 4 to 6 months, in SOC, detection engineering or incident response. Casablanca or remote.
 
 <br>
-### Two things I built
+Things I built :
 
 **[Distributed SOC lab](https://github.com/RedaKarrach/distributed-soc-lab)** &nbsp;·&nbsp; a working security operations centre on two machines. Wazuh watches the endpoints, Shuffle runs the response playbook, Cortex enriches each alert with threat intelligence, TheHive opens the incident case. Validated end to end with Atomic Red Team attacks, from the simulated intrusion to the classified case.
 
