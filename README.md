@@ -6,10 +6,9 @@
 
 I am a 5th-year cybersecurity and network infrastructure engineering student at EMSI Casablanca. I started as a developer (C, C++, Java, Django, PHP), which is why, when I study an attack, I end up building the thing that detects it.
 
-**Looking for a PFE internship from early 2027**, 4 to 6 months, in SOC, detection engineering or incident response. Casablanca, Rabat or remote.
+**Looking for a PFE internship from early 2027**, 4 to 6 months, in SOC, detection engineering or incident response. Casablanca or remote.
 
 <br>
-
 ### Two things I built
 
 **[Distributed SOC lab](https://github.com/RedaKarrach/distributed-soc-lab)** &nbsp;·&nbsp; a working security operations centre on two machines. Wazuh watches the endpoints, Shuffle runs the response playbook, Cortex enriches each alert with threat intelligence, TheHive opens the incident case. Validated end to end with Atomic Red Team attacks, from the simulated intrusion to the classified case.
@@ -25,9 +24,7 @@ Also: [ChainShop Nexus](https://github.com/RedaKarrach/chainshop-nexus), trustle
 **Application security intern** &nbsp;·&nbsp; built a deliberately vulnerable Django REST application, then broke it and fixed it: OWASP findings reproduced with Burp Suite (SQL injection, XSS, broken access control), proofs of concept, and remediation shipped (parameterised queries, RBAC, output escaping, Content Security Policy). CVE monitoring on Django and first steps in DevSecOps. A short geomatics mission on the side (QGIS, PyQGIS, PostGIS).
 
 <br>
-
 ### What I work with
-
 | | |
 |---|---|
 | **Defend** | Wazuh, Shuffle, TheHive, Cortex, MITRE ATT&CK, Atomic Red Team, Scapy, Wireshark |
