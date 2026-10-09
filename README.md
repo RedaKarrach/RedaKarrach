@@ -50,7 +50,7 @@ Exploited and documented XSS and SQL injection on a test web application, with r
 | Application security | OWASP Top 10 testing of web apps and REST APIs, Burp Suite, PoC writing, remediation (parameterized queries, RBAC, output escaping, CSP), CVE monitoring |
 | Detection & network | Scapy, packet analysis, NIDS design, GNS3, Zabbix, SNMP, NetFlow, Prometheus / Grafana |
 | Offensive (lab only) | Kali Linux, Burp Suite, Hydra, Atomic Red Team, OWASP Top 10 labs (SQLi, XSS, IDOR, command injection) |
-| Cryptography | RSA, ECC, Diffie-Hellman, ElGamal, OpenSSL, digital signatures |
+| Cryptography | AES ,DES ,RSA, ECC, Diffie-Hellman, ElGamal, OpenSSL, digital signatures |
 | Development | C, C++ (OOP), Java, Python, Django / DRF, PHP, JavaScript, React, Next.js, Node / Express, Solidity, MySQL, MongoDB, Docker |
 | GIS | QGIS, PyQGIS, PostGIS |
 
