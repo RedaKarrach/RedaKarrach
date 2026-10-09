@@ -7,7 +7,7 @@
 I'm a 5th-year **cybersecurity & network infrastructure engineering** student at EMSI Casablanca, graduating in 2027. My foundation is in programming (C, C++ and OOP, Java) and web development (Django, PHP), so when I study an attack I usually end up building the tool that detects it.
 
 **Looking for:** a PFE (end-of-studies) internship in **SOC / detection engineering / incident response**, with an interest in cloud security.
-*Je recherche un stage PFE en SOC / Blue Team (Casablanca, Rabat ou remote).*
+
 
 ---
 
