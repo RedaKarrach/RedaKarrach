@@ -59,7 +59,9 @@ Linux · TCP/IP · GNS3 · Docker
 
 ---
 
-## Projects
+## Tools
+
+Small, open-source command-line tools. Each one answers one question, is read-only unless told otherwise, and ships with tests and a walkthrough page.
 
 ### loot — what would an infostealer take from your laptop?
 https://github.com/RedaKarrach/loot · walkthrough: https://redakarrach.github.io/loot/
@@ -78,14 +80,6 @@ Your AWS key ended up on GitHub. keyleak reads your own CloudTrail logs and answ
 - Read-only by default; one `--confirm` command to deactivate the key; HTML report with a ready-to-send AWS Support message
 - Python, boto3, click, rich. Tests run with botocore Stubber, no AWS account needed
 
-### Distributed SOC lab
-https://github.com/RedaKarrach/distributed-soc-lab
-
-A working security operations centre on two machines.
-- Wazuh watches the endpoints, Shuffle runs the response playbook
-- Cortex enriches each alert with threat intelligence, TheHive opens the incident case
-- Validated end to end with Atomic Red Team attacks, from the simulated intrusion to the classified case
-
 ### detforge — unit tests and CI for Sigma detection rules
 https://github.com/RedaKarrach/detforge
 
@@ -93,6 +87,18 @@ Detection rules treated like code.
 - Lint, true-positive / true-negative / baseline tests in SQLite
 - Conversion to Splunk and Elastic queries
 - MITRE ATT&CK coverage report
+
+---
+
+## Projects
+
+### Distributed SOC lab
+https://github.com/RedaKarrach/distributed-soc-lab
+
+A working security operations centre on two machines.
+- Wazuh watches the endpoints, Shuffle runs the response playbook
+- Cortex enriches each alert with threat intelligence, TheHive opens the incident case
+- Validated end to end with Atomic Red Team attacks, from the simulated intrusion to the classified case
 
 ### ReconTool — real-time network intrusion detection
 https://github.com/RedaKarrach/NetworkReconnaissanceTool
