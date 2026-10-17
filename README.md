@@ -25,7 +25,7 @@ I am a **5th-year cybersecurity and network infrastructure engineering student a
 - Detection engineering: Sigma rules, MITRE ATT&CK mapping, tested and version-controlled like code
 - Incident response: CloudTrail forensics, timeline reconstruction, containment that does not make things worse
 - Offensive work in the lab only: OWASP Top 10, Burp Suite, Atomic Red Team, network attacks against my own machines
-- Full-stack builder: Python, Django and DRF, React, Next.js, Node.js, Solidity
+- Full-stack builder: Python, Django, JavaScript, React, C, C++
 
 **Looking for a PFE internship from early 2027**, 4 to 6 months, in SOC, detection engineering or incident response. Casablanca or remote.
 
@@ -47,7 +47,7 @@ Kali Linux · Burp Suite · Nmap · Hydra · OWASP Top 10
 
 **Build**
 
-<img src="https://skillicons.dev/icons?i=py,django,fastapi,js,ts,react,nextjs,nodejs,express,c,cpp,java,php,dotnet,solidity" />
+<img src="https://skillicons.dev/icons?i=py,django,js,react,c,cpp" />
 
 **Run**
 
