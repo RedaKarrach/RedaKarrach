@@ -61,6 +61,14 @@ Linux · TCP/IP · GNS3 · Docker
 
 ## Projects
 
+### loot — what would an infostealer take from your laptop?
+https://github.com/RedaKarrach/loot · walkthrough: https://redakarrach.github.io/loot/
+
+Infostealers copy credentials from a known list of places on developer machines. loot walks the same list, read-only, and shows what a stealer would get, what each item unlocks, and a one-line fix. Grade it, fix things, run it again.
+- Cloud keys, SSH keys (with or without a passphrase), Git and GitHub CLI tokens, registry tokens, Docker and kube configs, shell history, project `.env` files, browser and wallet data (noticed, never opened)
+- Secrets are masked before they are stored; the tests assert none ever appears in the output
+- Python, click, rich. No network. Tests on Linux, macOS and Windows
+
 ### keyleak — AWS leaked-key incident response
 https://github.com/RedaKarrach/keyleak · docs: https://redakarrach.github.io/keyleak/
 
